@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Pipe1.ogg-0c6e21e0f3e351e506a67bb44065cf84.oggstr"
+
+[deps]
+
+source_file="res://SFX/SFX/Pipes/Pipe1.ogg"
+dest_files=[ "res://.import/Pipe1.ogg-0c6e21e0f3e351e506a67bb44065cf84.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
